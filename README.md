@@ -1,6 +1,6 @@
 # Arcadium Client
 
-Minecraft 1.7.10 and 1.8.9 client and launcher.
+Minecraft client and launcher.
 
 [Official website and downloads](https://arcadiumclient.com/)
 
